@@ -3,8 +3,6 @@
 
 [![N|Solid](https://i.imgur.com/y3CstGC.jpg)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 대충 학생임
 
   - 웹 조금
