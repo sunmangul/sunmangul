@@ -8,7 +8,8 @@
   - 웹 조금
   - 시스템 조금
   - 네트워크가 뭐죠?
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FFFFFF&title_bg=%236072FF&icon=&icon_color=%23999AFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&icon=jetbrains.svg&icon_color=%23000000&title=DanCat&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 **sunmangul/sunmangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
