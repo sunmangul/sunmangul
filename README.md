@@ -10,8 +10,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&icon=jetbrains.svg&icon_color=%23000000&title=DanCat&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![Sunmangul's github stats](https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Sunmangul)](https://solved.ac/Sunmangul)
 <!--
 **sunmangul/sunmangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
