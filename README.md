@@ -9,7 +9,8 @@
 
 시스템에 중점을 두고공부하고 있고
 요즘 하드웨어가 너무 재밌네요.
-  
+ 
+어셈블리어랑 GDB메모 끝나면 다음부터는 마크다운으로 정리할 예정
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&icon=jetbrains.svg&icon_color=%23000000&title=DanCat&edge_flat=true)](https://hits.seeyoufarm.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Sunmangul's github stats](https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true)
