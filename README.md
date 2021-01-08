@@ -11,9 +11,10 @@ I am a student studying cyber security.
 >- 🏫 Currently I'm attending Gwangju Softwate meister High School.
 
 
-
- <img src="https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true" width="400px" height="150px"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" width="400px" height="150px"/>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true" height="172px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" height="172px"/>
+</p>
  
 ---
 
