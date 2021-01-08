@@ -14,12 +14,9 @@ I am a student studying cyber security.
 
 ![Sunmangul's github stats](https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-```
-- Web
-- System
-- Network
-- Some development
-- etc..
-```
-
+---
+- **Web**
+- **System**
+- **Network**
+- **Some development**
+etc..
