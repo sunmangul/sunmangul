@@ -16,15 +16,9 @@ I am a student studying cyber security.
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" height="172px"/>
 </p>
  
----
 
-**Web**,
-**System**,
-**Network**,
-**Some development**
-etc..
 - - -
-<h3 align="center>📝List of my studies📝
+<h2 align="center">📝List of my studies📝
 <p align="center">
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
@@ -40,4 +34,12 @@ etc..
 <a><img src="https://img.shields.io/badge/eclipse-D22128?style=flat-square&logo=eclipse&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Pycharm-2C2255?style=flat-square&logo=pycharm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JetBrain-000000?style=flat-square&logo=jetbrains&logoColor=white"/></a>
-                                                                                                           </p>
+</p>
+---
+ 
+and now
+**Web**,
+**System**,
+**Network**,
+**Some development**
+etc..
