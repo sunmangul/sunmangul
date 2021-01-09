@@ -40,9 +40,10 @@ I am a student studying cyber security.
 - - -
  
 <h3 align="center">And now</h3>
-
+<p align="center">
 **Web**,
 **System**,
 **Network**,
 **Some development**
 etc..
+</p>
