@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Sunmangul [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&icon=python.svg&icon_color=%23000000&title=DanCat&edge_flat=true)](https://hits.seeyoufarm.com)
+# Sunmangul [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&title=To-day&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 I am a student studying cyber security.
@@ -11,7 +11,7 @@ I am a student studying cyber security.
 >- 🏫 Currently I'm attending Gwangju **_Softwate meister High School_**.
 
 
-<p>
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true" height="172px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" height="172px"/>
 </p>
@@ -23,3 +23,21 @@ I am a student studying cyber security.
 **Network**,
 **Some development**
 etc..
+- - -
+<h3 align="center>📝List of my studies📝
+<p align="center">
+<a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=purple"/></a>
+<a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a><br/>
+<a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JavaScript-ffbf00?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Kali-1793D1?style=flat-square&logo=linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a><br>
+<a><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/eclipse-D22128?style=flat-square&logo=eclipse&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Pycharm-2C2255?style=flat-square&logo=pycharm&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/JetBrain-000000?style=flat-square&logo=jetbrains&logoColor=white"/></a>
+                                                                                                           </p>
