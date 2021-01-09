@@ -41,9 +41,9 @@ I am a student studying cyber security.
  
 <h3 align="center">And now</h3>
 <p align="center">
-**Web**,
-**System**,
-**Network**,
-**Some development**
+<b>Web</b>,
+<b>System</b>,
+<b>Network</b>,
+<b>Some development</b>,
 etc..
 </p>
