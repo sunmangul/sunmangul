@@ -11,13 +11,14 @@ I am a student studying cyber security.
 >- 🏫 Currently I'm attending Gwangju **_Softwate meister High School_**.
 
 
-<p align="center">
+<p>
  <img src="https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true" height="172px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" height="172px"/>
 </p>
  
 
 - - -
+
 <h2 align="center">📝List of my studies📝
 <p align="center">
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -35,9 +36,11 @@ I am a student studying cyber security.
 <a><img src="https://img.shields.io/badge/Pycharm-2C2255?style=flat-square&logo=pycharm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JetBrain-000000?style=flat-square&logo=jetbrains&logoColor=white"/></a>
 </p>
----
  
-and now
+- - -
+ 
+<h3 align="center">And now</h3>
+
 **Web**,
 **System**,
 **Network**,
