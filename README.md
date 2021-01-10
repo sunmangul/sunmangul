@@ -20,7 +20,9 @@ I am a student studying cyber security.
 - - -
 
 <h2 align="center">📝List of my studies📝
+ 
 <p align="center">
+ <br/>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=purple"/></a>
