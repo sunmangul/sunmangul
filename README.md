@@ -53,5 +53,4 @@ etc..
 Ex)
 <p>
 <img width="430px" height="300px" src=https://i.imgur.com/Zk3eFV3.png>
-<img width="430px" height="300px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFR1vywA6CMlbZL-EqyC3kEU6mcXTPqZ_dUA&usqp=CAU>
 </p>
