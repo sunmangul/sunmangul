@@ -49,9 +49,11 @@ I am a student studying cyber security.
 <b>Some development</b>,
 etc..
 </p>
+
+<p align="center">
 ※My markdown recommends seeing half the window size in vs code.<br>
-Ex)
-<p>
-<img width="430px" height="300px" src=https://i.imgur.com/Zk3eFV3.png>
+</p>
+<p align="center">
+<img width="430px" height="300px" src=https://i.imgur.com/Zk3eFV3.png><br/>
 The reason is because it looks good.
 </p>
