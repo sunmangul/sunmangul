@@ -52,6 +52,6 @@ etc..
 ※My markdown recommends seeing half the window size in vs code.<br>
 Ex)
 <p>
-<img width="460px" height="300px" src=https://i.imgur.com/Zk3eFV3.png>
-<img width="460px" height="300px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFR1vywA6CMlbZL-EqyC3kEU6mcXTPqZ_dUA&usqp=CAU>
+<img width="450px" height="300px" src=https://i.imgur.com/Zk3eFV3.png>
+<img width="450px" height="300px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFR1vywA6CMlbZL-EqyC3kEU6mcXTPqZ_dUA&usqp=CAU>
 </p>
