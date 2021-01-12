@@ -49,3 +49,5 @@ I am a student studying cyber security.
 <b>Some development</b>,
 etc..
 </p>
+※My markdown recommends seeing half the window size in vs code.
+<img width="50%" height="270px" src=https://i.imgur.com/Zk3eFV3.png>
