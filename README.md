@@ -14,7 +14,7 @@ I am a student studying cyber security.
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=Sunmangul&show_icons=true" height="172px"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunmangul&layout=compact" height="172px"/>
-</p><>
+</p>
  
 
 - - -
