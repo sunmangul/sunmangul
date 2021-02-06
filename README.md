@@ -50,10 +50,3 @@ I am a student studying cyber security.
 etc...
 </p>
 
-<p align="center">
-※My markdown recommends seeing half the window size in vs code.<br>
-</p>
-<p align="center">
-<img width="510px" height="300px" src=https://i.imgur.com/Zk3eFV3.png><br/>
-The reason is because it looks good.
-</p>
