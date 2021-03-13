@@ -50,4 +50,4 @@ I am a student studying cyber security.
 etc...
 </p>
 
-*Feb 22부터 강의 아니면 리눅스만 만져서 커밋X
+___*Feb 22부터 강의 아니면 리눅스만 만져서 커밋X___
