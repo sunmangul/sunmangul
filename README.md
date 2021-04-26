@@ -8,7 +8,7 @@ I am a student studying cyber security.
 >- 💬 Ask me about discord 이승진#4015
 >- 📫 How to reach me: too
 >- 😄 Pronouns: Dancat
->- 🏫 Currently I'm attending Gwangju **_Softwate meister High School_**.
+>- 🏫 Currently I'm attending Gwangju **_Software meister High School_**.
 
 
 <p>
