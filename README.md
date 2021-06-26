@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Sunmangul [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunmangul&count_bg=%23FABAFF&title_bg=%23FABAFF&title=To-day&edge_flat=true)](https://hits.seeyoufarm.com)
-
+## 대부분 메모용도로 사용하고 코드를 거의 올리지 않다보니 벨로그로 이전함
 
 I am a student studying cyber security.
 >- 🔭 I’m not currently working. I'm just studying. 
@@ -51,3 +51,4 @@ etc...
 </p>
 
 ___*Feb 22-Apr 8, 강의 아니면 리눅스만 만져서 커밋X___
+ 
